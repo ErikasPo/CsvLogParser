@@ -7,7 +7,6 @@
 * [About the Project](#about-the-project)
 * [Prerequisites](#prerequisites)
 * [How to Run](#how-to-run)
-* [Suggestions for Improvement](#suggestions-for-improvement)
 * [Author](author)
 
 
