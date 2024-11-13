@@ -3,11 +3,11 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Getting Started](#Getting-Started)
-* [Bonus points](##Bonus-points)
+* [Bonus points](#Bonus-points)
 * [About the Project](#about-the-project)
 * [Prerequisites](#prerequisites)
 * [How to Run](#how-to-run)
-* [Author](author)
+* [Author](#author)
 
 
 # Introduction 
@@ -41,7 +41,7 @@ TODO:
 
 - Download the solution from the repository to your local machine.
 - Open the solution using Microsoft Visual Studio 2022.
-- Firstly set the file path to the file you would like to parse by opening App.config file and changing key, 
+- Firstly set the file path to the file you would like to parse by opening App.config file and changing key, you can find the file in the solution folder "Log file/logs.csv".
 - Then set the connection string for SQL server and database by opening App.config file and changing connectionString appropriately.
 - Once you set connection string you would need to perform database migration, by opening Package Manager Console, in Visual Studio on the top menu click Tools -> Package Manager Console.
 - Once you open the package manager console type in "Update-Database -Migration 20241112180639_InitialCreate" and click enter, database with the Logs table should be created.
