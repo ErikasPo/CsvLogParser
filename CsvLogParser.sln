@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvLogParser", "CsvLogParser.csproj", "{45C54EB5-88C5-427D-ACCF-1487F6D5B476}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{1DBBDBAE-080C-45C0-B7CB-B844BEE28B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C54EB5-88C5-427D-ACCF-1487F6D5B476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C54EB5-88C5-427D-ACCF-1487F6D5B476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C54EB5-88C5-427D-ACCF-1487F6D5B476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C54EB5-88C5-427D-ACCF-1487F6D5B476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45C54EB5-88C5-427D-ACCF-1487F6D5B476} = {1DBBDBAE-080C-45C0-B7CB-B844BEE28B43}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CC6742-885A-4682-9C8A-B2B220C616D8}
+	EndGlobalSection
+EndGlobal
