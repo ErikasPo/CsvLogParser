@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Getting Started](#Getting-Started)
-* [Bonus points](##Bonus-points:)
+* [Bonus points](##Bonus-points)
 * [About the Project](#about-the-project)
 * [Prerequisites](#prerequisites)
 * [How to Run](#how-to-run)
